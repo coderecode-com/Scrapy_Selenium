@@ -32,7 +32,7 @@ pylint==2.10.2
 pyOpenSSL==20.0.1
 queuelib==1.6.1
 scraper-helper==0.0.8
-Scrapy==2.5.0
+Scrapy==2.5.1
 scrapy-splash==0.7.2
 selenium==3.141.0
 service-identity==21.1.0
